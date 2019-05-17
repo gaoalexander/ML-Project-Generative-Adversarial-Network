@@ -1,6 +1,9 @@
 # Generative Adversarial Network for Simpsons Characters
 An intro to setting up and working with GANs.  For NYU EL-GY 6123 Intro to Machine Learning, final project.
 
+## Image Dataset Used
+https://www.kaggle.com/kostastokis/simpsons-faces
+
 ## Versions
 - PyTorch: 1.1.0
 - Python: 3.7
