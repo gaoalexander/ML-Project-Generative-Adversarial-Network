@@ -11,4 +11,5 @@ https://www.kaggle.com/kostastokis/simpsons-faces
 ## Educational Sources
 
 Paper: Generative Adversarial Nets, Ian Goodfellow et. al., 2014: https://arxiv.org/pdf/1406.2661.pdf
+
 PyTorch DCGAN tutorial: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
