@@ -1,4 +1,4 @@
-# ML-Project-Generative-Adversarial-Network
+# Generative Adversarial Network for Simpsons Characters
 Intro to GANs: for NYU Intro to Machine Learning final project.
 
 ## Versions
