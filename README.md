@@ -1,4 +1,4 @@
-# Generative Adversarial Network for Simpsons Characters
+# Generative Adversarial Network for Images
 An intro to setting up and working with GANs.  For NYU EL-GY 6123 Intro to Machine Learning, final project.
 
 ## Versions
