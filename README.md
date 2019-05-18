@@ -1,6 +1,11 @@
 # Generative Adversarial Network for Images
 An intro to setting up and working with GANs.  For NYU EL-GY 6123 Intro to Machine Learning, final project.
 
+## Team Members
+- Alexander Gao
+- Kavya Umesh Bangalore
+- Nikhil Nar
+
 ## Versions
 - PyTorch: 1.1.0
 - Python: 3.7
